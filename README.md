@@ -1,10 +1,12 @@
-### Hi, I'm Sri Lekha 👋
+# Hi, I'm Sri Lekha
 
-Data Science Intern | ML & Risk Analytics
+**Finance Analytics | FP&A | Python & Power BI**
 
-**Key Projects:**
-- 🔍 [Fraud Detection System](https://github.com/SRILEKHA200/fraud-dashboard) - ML + SHAP + Streamlit for 1M+ transactions
-- 📈 Customer Churn Prediction - XGBoost, 85% accuracy 
-- 📰 Market Sentiment Analysis - LSTM + HuggingFace on financial news
+Building automated financial reporting and variance analysis tools for finance teams.
 
-**Tech:** Python, SQL, PyTorch, TensorFlow, Scikit-learn, XGBoost, HuggingFace, LangChain
+### Key Projects:
+- **Financial-Risk-Analytics-Dashboard** - Credit risk monitoring & revenue variance analysis for CFO review using Python, Power BI
+- **Revenue-Retention-Forecast-Model** - Customer cohort analysis to forecast monthly recurring revenue trends 
+- **Revenue-Volatility-Analysis** - Market sentiment tracking for revenue forecasting using financial news data
+
+**Tech:** Python, SQL, Power BI, Excel, Financial Modeling, Variance Analysis
