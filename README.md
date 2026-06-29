@@ -2,7 +2,7 @@
 
 **Risk Analytics | Financial Analytics | Python & Power BI**
 
-2025 BTech ECE, Veltech | Online MBA Business Analytics Candidate, SRM University (2026-2028)
+2025 BTech ECE, Veltech | MBA Business Analytics Candidate, SRM University (2026-2028)
 
 Developing analytics solutions for financial risk detection & anomaly identification through MBA capstone, BTech projects & internship experience. Focus: applying ML to flag pricing exceptions and revenue leakage for simulated CFO review.
 
