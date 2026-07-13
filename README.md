@@ -4,7 +4,7 @@
 
 2025 BTech ECE, Veltech University
 
-Developing analytics solutions for financial risk detection & anomaly identification through BTech projects & internship experience. Focus: applying ML and data analytics to detect anomalies, prevent revenue leakage, and automate reporting.
+Developing analytics solutions for financial risk detection & anomaly identification through BTech projects & internship experience. Focus: using Python, SQL and Power BI to troubleshoot data issues, automate reporting, and support business operations.
 
 ## Key Projects:
 - **Financial-Risk-Analytics-Dashboard** - Built anomaly detection model identifying $228M+ at-risk pricing & contract exceptions on synthetic financial dataset using XGBoost + SHAP. Automated Power BI pipeline reduced manual review time 94%: 8 hours → 30 mins.
