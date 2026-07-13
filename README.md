@@ -17,6 +17,6 @@ Developing analytics solutions for financial risk detection & anomaly identifica
 
 **Tech:** Python, XGBoost, SHAP, SQL, Power BI, Financial Modeling, Data Visualization, Anomaly Detection
 
-Also Experienced In: FP&A reporting automation & variance analysis using SQL + Power BI
+Also Experienced In: FP&A reporting automation & variance analysis using SQL + Power BI, Python, Technical Support
 
-Aspiring Risk & Financial Advisory Analyst @ Deloitte USI - Seeking FY26 entry-level opportunities
+Seeking FY26 entry-level opportunities
