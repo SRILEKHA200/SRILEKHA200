@@ -19,7 +19,7 @@ Developing analytics solutions for financial risk detection & anomaly identifica
 - **AI & Data Analyst Intern, XylofyAi** `Apr 2026 – May 2026 | Remote`
   Applied Python, SQL & Power BI for data analysis and ML model prototyping on internal datasets. Supported anomaly detection workflows for business review.
 
-**Tech:** Python, XGBoost, SHAP, SQL, Power BI, Financial Modeling, Data Visualization, Anomaly Detection, Pandas, Scikit-learn
+**Tech:** Python, XGBoost, SHAP, SQL, Power BI, Financial Modeling, Data Visualization, Anomaly Detection, Pandas, Scikit-learn, Excel, Reports, SLA
 
 Also Experienced In: FP&A reporting automation & variance analysis using SQL + Power BI, Python, Technical Support
 
