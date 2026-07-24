@@ -1,6 +1,6 @@
 # Hi, I'm Sri Lekha
 
-**Risk Analytics | Financial Analytics | Python & Power BI | Process Associate | Data Operations | IT Support**
+**Risk Analytics | Financial Analytics | Python & Power BI | Process Associate | Data Operations | IT Support  | Service Desk**
 
 2025 BTech ECE- Veltech University, Online MBA in Business Analytics - SRM University (Jan 2026 - Dec 2027)
 
